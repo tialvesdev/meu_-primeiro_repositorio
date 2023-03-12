@@ -1,0 +1,20 @@
+.paragraph {
+    color: purple;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    justify-content: space-around;
+    height: 250px;
+    width: 100%;
+}
+
+.box {
+    height: 100%;
+    width: 20%;
+    background-color: greenyellow;
+}
